@@ -1,2 +1,2 @@
 # First-test-repository
-For testing C ++ code
+For testing C++ code
